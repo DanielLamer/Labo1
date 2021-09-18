@@ -1,0 +1,14 @@
+{
+  "name": "labo1",
+  "version": "1.0.0",
+  "description": "Laboratoire 1 pour le cours de développement de service d'échange de données",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Lamer",
+  "license": "ISC",
+  "dependencies": {
+    "query-string": "^7.0.1"
+  }
+}
